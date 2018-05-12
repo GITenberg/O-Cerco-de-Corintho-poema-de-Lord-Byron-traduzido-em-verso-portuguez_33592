@@ -1,0 +1,40 @@
+_repo: O-Cerco-de-Corintho-poema-de-Lord-Byron-traduzido-em-verso-portuguez_33592
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Coutinho, Henrique Ernesto de Almeida
+    aliases:
+    - Almeida Coutinho, Henrique Ernesto de
+    - Coutinho, Henrique Ernesto d'Almeida
+    birthdate: &id001 1788
+    deathdate: 1868
+    gutenberg_agent_id: '25894'
+    url: http://www.gutenberg.org/2009/agents/25894
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Byron, George Gordon Byron, Baron
+    aliases:
+    - Byron, George Gordon Noël Byron, Baron
+    - Byron, George Gordon Noel Byron, Baron
+    birthdate: *id001
+    deathdate: 1824
+    gutenberg_agent_id: '1708'
+    url: http://www.gutenberg.org/2009/agents/1708
+    wikipedia: http://en.wikipedia.org/wiki/George_Gordon_Byron,_6th_Baron_Byron
+description: ''
+gutenberg_issued: '2010-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33592'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+title: O Cerco de Corintho, poema de Lord Byron, traduzido em verso portuguez
+url: http://www.gutenberg.org/ebooks/33592
