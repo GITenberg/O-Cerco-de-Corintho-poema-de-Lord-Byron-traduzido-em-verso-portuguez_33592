@@ -6,7 +6,7 @@ contributor:
     aliases:
     - Almeida Coutinho, Henrique Ernesto de
     - Coutinho, Henrique Ernesto d'Almeida
-    birthdate: &id001 1788
+    birthdate: 1788
     deathdate: 1868
     gutenberg_agent_id: '25894'
     url: http://www.gutenberg.org/2009/agents/25894
@@ -19,12 +19,14 @@ creator:
     aliases:
     - Byron, George Gordon Noël Byron, Baron
     - Byron, George Gordon Noel Byron, Baron
-    birthdate: *id001
+    birthdate: 1788
     deathdate: 1824
     gutenberg_agent_id: '1708'
     url: http://www.gutenberg.org/2009/agents/1708
     wikipedia: http://en.wikipedia.org/wiki/George_Gordon_Byron,_6th_Baron_Byron
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33592#O-Cerco-de-Corintho-poema-de-Lord-Byron-traduzido-em-verso-portuguez
 gutenberg_issued: '2010-08-31'
 gutenberg_type: Text
 identifiers:
